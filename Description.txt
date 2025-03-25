@@ -1,0 +1,58 @@
+Supermarket Sales Analysis
+Date: 12/01/2025
+Tools Used: Python (Pandas, NumPy, Matplotlib
+📁 Dataset: [Link to dataset]
+
+Project Overview
+Problem Statement
+Supermarkets generate massive amounts of sales data daily. The goal of this project is to analyze sales trends,
+identify the best-selling products, and provide insights that can help supermarket managers optimize stock and increase revenue.
+
+Key Business Questions
+What are the peak sales hours?
+Which product categories contribute the most to revenue?
+How do different payment methods impact sales?
+What is the average customer spending behavior?
+
+Data Collection & Cleaning
+Dataset:
+The dataset contains sales transactions from multiple supermarket branches A, B and C. 
+It includes details like product category, sales date, time, customer type, payment method, and total amount spent.
+
+Data Cleaning Steps:
+Checked for missing values and handled them appropriately.
+Converted date/time columns into proper formats.
+Removed duplicates and corrected inconsistent data entries.
+
+Exploratory Data Analysis (EDA)
+Key Findings & Insights
+Sales Trends:
+The highest sales occur between 5 PM – 7 PM, suggesting peak shopping hours.
+Weekends have higher sales volumes than weekdays.
+
+Top-Selling Product Categories:
+The "Food & Beverages" category generates the highest revenue.
+"Health & Beauty" has the highest profit margin.
+
+Customer Behavior:
+Most customers prefer electronic payment methods over cash.
+Membership customers tend to spend 15% more than non-members.
+
+Branch Comparison:
+Branch A has the highest revenue, but Branch C has the most transactions.
+
+Data Visualization
+Sales Trends Over Time – Line graph of sales per hour/day
+Best-Selling Categories – Bar chart of revenue per category
+Customer Payment Methods – Pie chart of payment method distribution
+Branch Performance Comparison – Heatmap or bar chart
+
+
+Business Recommendations
+Stock more products in the "Food & Beverages" category, especially in Branch A.
+Offer discounts/promos during non-peak hours to increase traffic.
+Encourage digital payments by offering small incentives for card/mobile transactions.
+Expand membership program to encourage repeat customers.
+
+Access the code in supermarket-sales. py
+
