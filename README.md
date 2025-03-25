@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-Analysis.py is a simple assessment of the skills gained in data analysis with python using a sample data in CSV format. This is primarily done to test whether i have gained the skills.
+try.py is a simple assessment of the skills gained in data analysis with python using a sample data in CSV format. This is primarily done to test whether i have gained the skills.
 
 SAMPLE DATA ANALYSIS
 Date : 20/10/2024
