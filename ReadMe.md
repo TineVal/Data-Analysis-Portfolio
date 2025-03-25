@@ -4,6 +4,7 @@ try.py is a simple assessment of the skills gained in data analysis with python 
 SAMPLE DATA ANALYSIS
 Date : 20/10/2024
 Tools : Python(pandas, matplotlib)
+Dataset : Access the dataset in the repository
 
 Project Overview: 
 Following an intensive and practical study of data analysis, this project is meant to test whether skills gained in this trained have been understood and can be applied with ease.
